@@ -11,6 +11,7 @@ I mostly work in R and sometimes use Julia and Python. I'm slowly learning OCaml
 - [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
   - Currently on hold as I want to use notebooks but [OCaml Jupyter](https://github.com/akabe/ocaml-jupyter) doesn't work with OCaml 5.
 - [Advanced R, 2e](https://github.com/VisruthSK/STAT400-F24)
+  - A must read!
 
 ### Favorite blogs:
 - [Nikhil Suresh](https://ludic.mataroa.blog/)
