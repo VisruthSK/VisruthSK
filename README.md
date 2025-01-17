@@ -1,4 +1,4 @@
-## Hello
+## Hello!
 
 I am a statistics and data science student at Cal Poly San Luis Obispo.
 
